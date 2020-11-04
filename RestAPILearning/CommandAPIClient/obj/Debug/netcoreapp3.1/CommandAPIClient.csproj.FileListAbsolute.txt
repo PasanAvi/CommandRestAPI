@@ -1,0 +1,14 @@
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.exe
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.deps.json
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.runtimeconfig.json
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.runtimeconfig.dev.json
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.dll
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\CommandAPIClient.pdb
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.csprojAssemblyReference.cache
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.AssemblyInfoInputs.cache
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.AssemblyInfo.cs
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.dll
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.pdb
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.genruntimeconfig.cache
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pasan\Desktop\Asp.net core notes\RestAPILearning\CommandAPIClient\obj\Debug\netcoreapp3.1\CommandAPIClient.csproj.CopyComplete
